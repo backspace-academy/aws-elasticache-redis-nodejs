@@ -1,0 +1,22 @@
+{
+  "name": "aws-elasticache-redis-nodejs",
+  "version": "1.0.0",
+  "description": "Starting template for using NodeJS with an AWS Elasticache Redis cluster. To be used with the BackSpace Academy AWS Certified Developer Associate course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backspace-academy/aws-elasticache-redis-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/backspace-academy/aws-elasticache-redis-nodejs/issues"
+  },
+  "homepage": "https://github.com/backspace-academy/aws-elasticache-redis-nodejs#readme",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
